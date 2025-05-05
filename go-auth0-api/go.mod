@@ -1,4 +1,4 @@
-module github.com/ams0/go-auth0-api
+module github.com/ams0/auth0-demo-app
 
 go 1.24.2
 
